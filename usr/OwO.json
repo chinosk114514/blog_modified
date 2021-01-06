@@ -1,0 +1,1997 @@
+{
+  "蛆音娘": {
+    "name": "quyin",
+    "type": "image",
+    "container": [
+      {
+        "icon": "hematemesis",
+        "text": "吐血"
+      },
+      {
+        "icon": "1huaji",
+        "text": "滑稽"
+      },
+      {
+        "icon": "amazing",
+        "text": "吃惊"
+      },
+      {
+        "icon": "angry",
+        "text": "生气"
+      },
+      {
+        "icon": "cry",
+        "text": "哭泣"
+      },
+      {
+        "icon": "die",
+        "text": "die"
+      },
+      {
+        "icon": "doubt",
+        "text": "疑问"
+      },
+      {
+        "icon": "feizao",
+        "text": "肥皂"
+      },
+      {
+        "icon": "fue",
+        "text": "扶额"
+      },
+      {
+        "icon": "heng",
+        "text": "哼"
+      },
+      {
+        "icon": "laughing",
+        "text": "大笑"
+      },
+      {
+        "icon": "look",
+        "text": "偷看"
+      },
+      {
+        "icon": "maimeng",
+        "text": "卖萌"
+      },
+      {
+        "icon": "OK",
+        "text": "OK！"
+      },
+      {
+        "icon": "scare",
+        "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "shakinghead",
+        "text": "摇头"
+      },
+      {
+        "icon": "sleep",
+        "text": "睡觉"
+      },
+      {
+        "icon": "speechless",
+        "text": "无语"
+      },
+      {
+        "icon": "watermaleon",
+        "text": "吃瓜"
+      },
+      {
+        "icon": "witty",
+        "text": "机智"
+      }
+    ]
+  },
+  "颜文字": {
+    "type": "emoticon",
+    "container": [
+      {
+        "icon": "OωO",
+        "text": "Author: DIYgod"
+      },
+      {
+        "icon": "|´・ω・)ノ",
+        "text": "Hi"
+      },
+      {
+        "icon": "ヾ(≧∇≦*)ゝ",
+        "text": "开心"
+      },
+      {
+        "icon": "(☆ω☆)",
+        "text": "星星眼"
+      },
+      {
+        "icon": "（╯‵□′）╯︵┴─┴",
+        "text": "掀桌"
+      },
+      {
+        "icon": "￣﹃￣",
+        "text": "流口水"
+      },
+      {
+        "icon": "(/ω＼)",
+        "text": "捂脸"
+      },
+      {
+        "icon": "∠( ᐛ 」∠)＿",
+        "text": "给跪"
+      },
+      {
+        "icon": "(๑•̀ㅁ•́ฅ)",
+        "text": "Hi"
+      },
+      {
+        "icon": "→_→",
+        "text": "斜眼"
+      },
+      {
+        "icon": "୧(๑•̀⌄•́๑)૭",
+        "text": "加油"
+      },
+      {
+        "icon": "٩(ˊᗜˋ*)و",
+        "text": "有木有WiFi"
+      },
+      {
+        "icon": "(ノ°ο°)ノ",
+        "text": "前方高能预警"
+      },
+      {
+        "icon": "(´இ皿இ｀)",
+        "text": "我从未见过如此厚颜无耻之人"
+      },
+      {
+        "icon": "⌇●﹏●⌇",
+        "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "(ฅ´ω`ฅ)",
+        "text": "已阅留爪"
+      },
+      {
+        "icon": "(╯°A°)╯︵○○○",
+        "text": "去吧大师球"
+      },
+      {
+        "icon": "φ(￣∇￣o)",
+        "text": "太萌惹"
+      },
+      {
+        "icon": "ヾ(´･ ･｀｡)ノ\"",
+        "text": "咦咦咦"
+      },
+      {
+        "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+        "text": "气呼呼"
+      },
+      {
+        "icon": "(ó﹏ò｡)",
+        "text": "我受到了惊吓"
+      },
+      {
+        "icon": "Σ(っ °Д °;)っ",
+        "text": "什么鬼"
+      },
+      {
+        "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+        "text": "摸摸头"
+      },
+      {
+        "icon": "╮(╯▽╰)╭ ",
+        "text": "无奈"
+      },
+      {
+        "icon": "o(*////▽////*)q ",
+        "text": "脸红"
+      },
+      {
+        "icon": "＞﹏＜",
+        "text": ""
+      },
+      {
+        "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+        "text": ""
+      },
+      {
+        "icon": "(｡•ˇ‸ˇ•｡)",
+        "text": ""
+      }
+    ]
+  },
+  "阿鲁": {
+    "name": "aru",
+    "type": "image",
+    "container": [
+      {
+        "icon": "despise",
+        "text": "鄙视"
+      },
+      {
+        "icon": "knife",
+        "text": "插刀"
+      },
+      {
+        "icon": "pouting",
+        "text": "亲嘴"
+      },
+      {
+        "icon": "shutup",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "unhappy",
+        "text": "不开心"
+      },
+      {
+        "icon": "discovertruth",
+        "text": "发现真相"
+      },
+      {
+        "icon": "shit",
+        "text": "便便"
+      },
+      {
+        "icon": "distressed",
+        "text": "烦恼"
+      },
+      {
+        "icon": "shy",
+        "text": "捂脸"
+      },
+      {
+        "icon": "speechless",
+        "text": "无语"
+      },
+      {
+        "icon": "confuse",
+        "text": "迷惑"
+      },
+      {
+        "icon": "frown",
+        "text": "皱眉"
+      },
+      {
+        "icon": "proud",
+        "text": "得意"
+      },
+      {
+        "icon": "cheer",
+        "text": "欢呼"
+      },
+      {
+        "icon": "meditation",
+        "text": "沉思"
+      },
+      {
+        "icon": "diving",
+        "text": "潜水"
+      },
+      {
+        "icon": "cryingface",
+        "text": "掩面哭泣"
+      },
+      {
+        "icon": "lurking",
+        "text": "潜伏"
+      },
+      {
+        "icon": "thumb",
+        "text": "大拇指"
+      },
+      {
+        "icon": "smile",
+        "text": "微笑"
+      },
+      {
+        "icon": "clap",
+        "text": "拍掌"
+      },
+      {
+        "icon": "envious",
+        "text": "眼馋"
+      },
+      {
+        "icon": "surrender",
+        "text": "投降"
+      },
+      {
+        "icon": "bigeye",
+        "text": "大眼睛"
+      },
+      {
+        "icon": "nose",
+        "text": "抠鼻"
+      },
+      {
+        "icon": "sweat",
+        "text": "流汗"
+      },
+      {
+        "icon": "flower",
+        "text": "小花花"
+      },
+      {
+        "icon": "crying",
+        "text": "流泪"
+      },
+      {
+        "icon": "spit",
+        "text": "吐"
+      },
+      {
+        "icon": "surprised",
+        "text": "吃惊"
+      },
+      {
+        "icon": "blood",
+        "text": "一滩血"
+      },
+      {
+        "icon": "blood2",
+        "text": "吐血"
+      },
+      {
+        "icon": "shy2",
+        "text": "脸红"
+      },
+      {
+        "icon": "angry",
+        "text": "生气"
+      },
+      {
+        "icon": "nomatter",
+        "text": "无所谓"
+      },
+      {
+        "icon": "dead",
+        "text": "死翘翘"
+      },
+      {
+        "icon": "insidious",
+        "text": "阴险"
+      },
+      {
+        "icon": "tongue",
+        "text": "吐舌"
+      }
+
+    ]
+  },
+  "推特":{
+    "type": "image",
+    "name": "twemoji",
+    "container":[
+      {
+        "icon": "smile",
+        "text": "微笑"
+      },
+      {
+        "icon": "tongue",
+        "text": "吐舌"
+      },
+      {
+        "icon": "tilted",
+        "text": "歪头"
+      },
+      {
+        "icon": "tiaomei",
+        "text": "挑眉"
+      },
+      {
+        "icon": "shy",
+        "text": "害羞"
+      },
+      {
+        "icon": "sweat",
+        "text": "流汗"
+      },
+      {
+        "icon": "proud",
+        "text": "得意"
+      },{
+        "icon": "uncomfort",
+        "text": "难受"
+      },{
+        "icon": "smilecry",
+        "text": "笑哭"
+      },
+      {
+        "icon": "love",
+        "text": "喜欢"
+      },{
+        "icon": "notalk",
+        "text": "不说话"
+      },{
+        "icon": "happy",
+        "text": "开心"
+      },{
+        "icon": "frightened",
+        "text": "惊恐"
+      },{
+        "icon": "dtongue",
+        "text": "吐舌"
+      },{
+        "icon": "cry",
+        "text": "哭泣"
+      },{
+        "icon": "cool",
+        "text": "炫酷"
+      },{
+        "icon": "bigsmile",
+        "text": "红脸笑"
+      },{
+        "icon": "ok",
+        "text": "可以"
+      },{
+        "icon": "kiss",
+        "text": "亲亲"
+      },{
+        "icon": "angry",
+        "text": "生气"
+      },{
+        "icon": "family",
+        "text": "家庭"
+      },{
+        "icon": "congratulate",
+        "text": "祝贺"
+      },{
+        "icon": "gift",
+        "text": "礼物"
+      },{
+        "icon": "prayer",
+        "text": "祈祷"
+      },{
+        "icon": "star",
+        "text": "星星"
+      }
+    ]
+  }
+,
+  "QQ表情":{
+    "name":"QQ",
+    "type":"image",
+    "container":[
+        {
+          "icon":"qq-1",
+          "text":"qq-1"
+        },{
+          "icon":"qq-2",
+          "text":"qq-2"
+        },{
+          "icon":"qq-3",
+          "text":"qq-3"
+        },{
+          "icon":"qq-4",
+          "text":"qq-4"
+        },{
+          "icon":"qq-5",
+          "text":"qq-5"
+        },{
+          "icon":"qq-6",
+          "text":"qq-6"
+        },{
+          "icon":"qq-7",
+          "text":"qq-7"
+        },{
+          "icon":"qq-8",
+          "text":"qq-8"
+        },{
+          "icon":"qq-9",
+          "text":"qq-9"
+        },{
+          "icon":"qq-10",
+          "text":"qq-10"
+        },{
+          "icon":"qq-11",
+          "text":"qq-11"
+        },{
+          "icon":"qq-12",
+          "text":"qq-12"
+        },{
+          "icon":"qq-13",
+          "text":"qq-13"
+        },{
+          "icon":"qq-14",
+          "text":"qq-14"
+        },{
+          "icon":"qq-15",
+          "text":"qq-15"
+        },{
+          "icon":"qq-16",
+          "text":"qq-16"
+        },{
+          "icon":"qq-17",
+          "text":"qq-17"
+        },{
+          "icon":"qq-18",
+          "text":"qq-18"
+        },{
+          "icon":"qq-19",
+          "text":"qq-19"
+        },{
+          "icon":"qq-20",
+          "text":"qq-20"
+        },{
+          "icon":"qq-21",
+          "text":"qq-21"
+        },{
+          "icon":"qq-22",
+          "text":"qq-22"
+        },{
+          "icon":"qq-23",
+          "text":"qq-23"
+        },{
+          "icon":"qq-24",
+          "text":"qq-24"
+        },{
+          "icon":"qq-25",
+          "text":"qq-25"
+        },{
+          "icon":"qq-26",
+          "text":"qq-26"
+        },{
+          "icon":"qq-27",
+          "text":"qq-27"
+        },{
+          "icon":"qq-28",
+          "text":"qq-28"
+        },{
+          "icon":"qq-29",
+          "text":"qq-29"
+        },{
+          "icon":"qq-30",
+          "text":"qq-30"
+        },{
+          "icon":"qq-31",
+          "text":"qq-31"
+        },{
+          "icon":"qq-32",
+          "text":"qq-32"
+        },{
+          "icon":"qq-33",
+          "text":"qq-33"
+        },{
+          "icon":"qq-34",
+          "text":"qq-34"
+        },{
+          "icon":"qq-35",
+          "text":"qq-35"
+        },{
+          "icon":"qq-36",
+          "text":"qq-36"
+        },{
+          "icon":"qq-37",
+          "text":"qq-37"
+        },{
+          "icon":"qq-38",
+          "text":"qq-38"
+        },{
+          "icon":"qq-39",
+          "text":"qq-39"
+        },{
+          "icon":"qq-40",
+          "text":"qq-40"
+        },{
+          "icon":"qq-41",
+          "text":"qq-41"
+        },{
+          "icon":"qq-42",
+          "text":"qq-42"
+        },{
+          "icon":"qq-43",
+          "text":"qq-43"
+        },{
+          "icon":"qq-44",
+          "text":"qq-44"
+        },{
+          "icon":"qq-45",
+          "text":"qq-45"
+        },{
+          "icon":"qq-46",
+          "text":"qq-46"
+        },{
+          "icon":"qq-47",
+          "text":"qq-47"
+        },{
+          "icon":"qq-48",
+          "text":"qq-48"
+        },{
+          "icon":"qq-49",
+          "text":"qq-49"
+        },{
+          "icon":"qq-50",
+          "text":"qq-50"
+        },{
+          "icon":"qq-51",
+          "text":"qq-51"
+        },{
+          "icon":"qq-52",
+          "text":"qq-52"
+        },{
+          "icon":"qq-53",
+          "text":"qq-53"
+        },{
+          "icon":"qq-54",
+          "text":"qq-54"
+        },{
+          "icon":"qq-55",
+          "text":"qq-55"
+        },{
+          "icon":"qq-56",
+          "text":"qq-56"
+        },{
+          "icon":"qq-57",
+          "text":"qq-57"
+        },{
+          "icon":"qq-58",
+          "text":"qq-58"
+        },{
+          "icon":"qq-59",
+          "text":"qq-59"
+        },{
+          "icon":"qq-60",
+          "text":"qq-60"
+        },{
+          "icon":"qq-61",
+          "text":"qq-61"
+        },{
+          "icon":"qq-62",
+          "text":"qq-62"
+        },{
+          "icon":"qq-63",
+          "text":"qq-63"
+        },{
+          "icon":"qq-64",
+          "text":"qq-64"
+        },{
+          "icon":"qq-65",
+          "text":"qq-65"
+        },{
+          "icon":"qq-66",
+          "text":"qq-66"
+        },{
+          "icon":"qq-67",
+          "text":"qq-67"
+        },{
+          "icon":"qq-68",
+          "text":"qq-68"
+        },{
+          "icon":"qq-69",
+          "text":"qq-69"
+        },{
+          "icon":"qq-70",
+          "text":"qq-70"
+        },{
+          "icon":"qq-71",
+          "text":"qq-71"
+        },{
+          "icon":"qq-72",
+          "text":"qq-72"
+        },{
+          "icon":"qq-73",
+          "text":"qq-73"
+        },{
+          "icon":"qq-74",
+          "text":"qq-74"
+        },{
+          "icon":"qq-75",
+          "text":"qq-75"
+        },{
+          "icon":"qq-76",
+          "text":"qq-76"
+        },{
+          "icon":"qq-77",
+          "text":"qq-77"
+        },{
+          "icon":"qq-78",
+          "text":"qq-78"
+        },{
+          "icon":"qq-79",
+          "text":"qq-79"
+        },{
+          "icon":"qq-80",
+          "text":"qq-80"
+        },{
+          "icon":"qq-81",
+          "text":"qq-81"
+        },{
+          "icon":"qq-82",
+          "text":"qq-82"
+        },{
+          "icon":"qq-83",
+          "text":"qq-83"
+        },{
+          "icon":"qq-84",
+          "text":"qq-84"
+        },{
+          "icon":"qq-85",
+          "text":"qq-85"
+        },{
+          "icon":"qq-86",
+          "text":"qq-86"
+        },{
+          "icon":"qq-87",
+          "text":"qq-87"
+        },{
+          "icon":"qq-88",
+          "text":"qq-88"
+        },{
+          "icon":"qq-89",
+          "text":"qq-89"
+        },{
+          "icon":"qq-90",
+          "text":"qq-90"
+        },{
+          "icon":"qq-91",
+          "text":"qq-91"
+        },{
+          "icon":"qq-92",
+          "text":"qq-92"
+        },{
+          "icon":"qq-93",
+          "text":"qq-93"
+        },{
+          "icon":"qq-94",
+          "text":"qq-94"
+        },{
+          "icon":"qq-95",
+          "text":"qq-95"
+        },{
+          "icon":"qq-96",
+          "text":"qq-96"
+        },{
+          "icon":"qq-97",
+          "text":"qq-97"
+        },{
+          "icon":"qq-98",
+          "text":"qq-98"
+        },{
+          "icon":"qq-99",
+          "text":"qq-99"
+        },{
+          "icon":"qq-100",
+          "text":"qq-100"
+        },{
+          "icon":"qq-101",
+          "text":"qq-101"
+        },{
+          "icon":"qq-102",
+          "text":"qq-102"
+        },{
+          "icon":"qq-103",
+          "text":"qq-103"
+        },{
+          "icon":"qq-104",
+          "text":"qq-104"
+        },{
+          "icon":"qq-105",
+          "text":"qq-105"
+        },{
+          "icon":"qq-106",
+          "text":"qq-106"
+        },{
+          "icon":"qq-107",
+          "text":"qq-107"
+        },{
+          "icon":"qq-108",
+          "text":"qq-108"
+        },{
+          "icon":"qq-109",
+          "text":"qq-109"
+        },{
+          "icon":"qq-110",
+          "text":"qq-110"
+        },{
+          "icon":"qq-111",
+          "text":"qq-111"
+        },{
+          "icon":"qq-112",
+          "text":"qq-112"
+        },{
+          "icon":"qq-113",
+          "text":"qq-113"
+        },{
+          "icon":"qq-114",
+          "text":"qq-114"
+        },{
+          "icon":"qq-115",
+          "text":"qq-115"
+        },{
+          "icon":"qq-116",
+          "text":"qq-116"
+        },{
+          "icon":"qq-117",
+          "text":"qq-117"
+        },{
+          "icon":"qq-118",
+          "text":"qq-118"
+        },{
+          "icon":"qq-119",
+          "text":"qq-119"
+        },{
+          "icon":"qq-120",
+          "text":"qq-120"
+        },{
+          "icon":"qq-121",
+          "text":"qq-121"
+        },{
+          "icon":"qq-122",
+          "text":"qq-122"
+        },{
+          "icon":"qq-123",
+          "text":"qq-123"
+        },{
+          "icon":"qq-124",
+          "text":"qq-124"
+        },{
+          "icon":"qq-125",
+          "text":"qq-125"
+        },{
+          "icon":"qq-126",
+          "text":"qq-126"
+        },{
+          "icon":"qq-127",
+          "text":"qq-127"
+        },{
+          "icon":"qq-128",
+          "text":"qq-128"
+        },{
+          "icon":"qq-129",
+          "text":"qq-129"
+        },{
+          "icon":"qq-130",
+          "text":"qq-130"
+        },{
+          "icon":"qq-131",
+          "text":"qq-131"
+        },{
+          "icon":"qq-132",
+          "text":"qq-132"
+        },{
+          "icon":"qq-133",
+          "text":"qq-133"
+        },{
+          "icon":"qq-134",
+          "text":"qq-134"
+        },{
+          "icon":"qq-135",
+          "text":"qq-135"
+        },{
+          "icon":"qq-136",
+          "text":"qq-136"
+        },{
+          "icon":"qq-137",
+          "text":"qq-137"
+        },{
+          "icon":"qq-138",
+          "text":"qq-138"
+        },{
+          "icon":"qq-139",
+          "text":"qq-139"
+        },{
+          "icon":"qq-140",
+          "text":"qq-140"
+        },{
+          "icon":"qq-141",
+          "text":"qq-141"
+        },{
+          "icon":"qq-142",
+          "text":"qq-142"
+        },{
+          "icon":"qq-143",
+          "text":"qq-143"
+        },{
+          "icon":"qq-144",
+          "text":"qq-144"
+        },{
+          "icon":"qq-145",
+          "text":"qq-145"
+        },{
+          "icon":"qq-146",
+          "text":"qq-146"
+        },{
+          "icon":"qq-147",
+          "text":"qq-147"
+        },{
+          "icon":"qq-148",
+          "text":"qq-148"
+        },{
+          "icon":"qq-149",
+          "text":"qq-149"
+        },{
+          "icon":"qq-150",
+          "text":"qq-150"
+        },{
+          "icon":"qq-151",
+          "text":"qq-151"
+        },{
+          "icon":"qq-152",
+          "text":"qq-152"
+        },{
+          "icon":"qq-153",
+          "text":"qq-153"
+        },{
+          "icon":"qq-154",
+          "text":"qq-154"
+        },{
+          "icon":"qq-155",
+          "text":"qq-155"
+        },{
+          "icon":"qq-156",
+          "text":"qq-156"
+        },{
+          "icon":"qq-157",
+          "text":"qq-157"
+        },{
+          "icon":"qq-158",
+          "text":"qq-158"
+        },{
+          "icon":"qq-159",
+          "text":"qq-159"
+        },{
+          "icon":"qq-160",
+          "text":"qq-160"
+        },{
+          "icon":"qq-161",
+          "text":"qq-161"
+        },{
+          "icon":"qq-162",
+          "text":"qq-162"
+        },{
+          "icon":"qq-163",
+          "text":"qq-163"
+        },{
+          "icon":"qq-164",
+          "text":"qq-164"
+        },{
+          "icon":"qq-165",
+          "text":"qq-165"
+        },{
+          "icon":"qq-166",
+          "text":"qq-166"
+        },{
+          "icon":"qq-167",
+          "text":"qq-167"
+        },{
+          "icon":"qq-168",
+          "text":"qq-168"
+        },{
+          "icon":"qq-169",
+          "text":"qq-169"
+        },{
+          "icon":"qq-170",
+          "text":"qq-170"
+        },{
+          "icon":"qq-171",
+          "text":"qq-171"
+        },{
+          "icon":"qq-172",
+          "text":"qq-172"
+        },{
+          "icon":"qq-173",
+          "text":"qq-173"
+        },{
+          "icon":"qq-174",
+          "text":"qq-174"
+        },{
+          "icon":"qq-175",
+          "text":"qq-175"
+        },{
+          "icon":"qq-176",
+          "text":"qq-176"
+        },{
+          "icon":"qq-177",
+          "text":"qq-177"
+        },{
+          "icon":"qq-178",
+          "text":"qq-178"
+        },{
+          "icon":"qq-179",
+          "text":"qq-179"
+        },{
+          "icon":"qq-180",
+          "text":"qq-180"
+        },{
+          "icon":"qq-181",
+          "text":"qq-181"
+        },{
+          "icon":"qq-182",
+          "text":"qq-182"
+        },{
+          "icon":"qq-183",
+          "text":"qq-183"
+        },{
+          "icon":"qq-184",
+          "text":"qq-184"
+        },{
+          "icon":"qq-185",
+          "text":"qq-185"
+        },{
+          "icon":"qq-186",
+          "text":"qq-186"
+        },{
+          "icon":"qq-187",
+          "text":"qq-187"
+        },{
+          "icon":"qq-188",
+          "text":"qq-188"
+        },{
+          "icon":"qq-189",
+          "text":"qq-189"
+        },{
+          "icon":"qq-190",
+          "text":"qq-190"
+        },{
+          "icon":"qq-191",
+          "text":"qq-191"
+        },{
+          "icon":"qq-192",
+          "text":"qq-192"
+        },{
+          "icon":"qq-193",
+          "text":"qq-193"
+        },{
+          "icon":"qq-194",
+          "text":"qq-194"
+        },{
+          "icon":"qq-195",
+          "text":"qq-195"
+        },{
+          "icon":"qq-196",
+          "text":"qq-196"
+        },{
+          "icon":"qq-197",
+          "text":"qq-197"
+        },{
+          "icon":"qq-198",
+          "text":"qq-198"
+        },{
+          "icon":"qq-199",
+          "text":"qq-199"
+        },{
+          "icon":"qq-200",
+          "text":"qq-200"
+        },{
+          "icon":"qq-201",
+          "text":"qq-201"
+        },{
+          "icon":"qq-202",
+          "text":"qq-202"
+        },{
+          "icon":"qq-203",
+          "text":"qq-203"
+        },{
+          "icon":"qq-204",
+          "text":"qq-204"
+        },{
+          "icon":"qq-205",
+          "text":"qq-205"
+        },{
+          "icon":"qq-206",
+          "text":"qq-206"
+        },{
+          "icon":"qq-207",
+          "text":"qq-207"
+        },{
+          "icon":"qq-208",
+          "text":"qq-208"
+        }
+    ]
+  }
+,
+
+  "AC娘":{
+
+    "name":"ac",
+
+    "type":"image",
+
+    "container":[
+
+        {
+
+          "icon":"01",
+
+          "text":"01"
+
+        },{
+
+          "icon":"02",
+
+          "text":"02"
+
+        },{
+
+          "icon":"03",
+
+          "text":"03"
+
+        },{
+
+          "icon":"04",
+
+          "text":"04"
+
+        },{
+
+          "icon":"05",
+
+          "text":"05"
+
+        },{
+
+          "icon":"06",
+
+          "text":"06"
+
+        },{
+
+          "icon":"07",
+
+          "text":"07"
+
+        },{
+
+          "icon":"08",
+
+          "text":"08"
+
+        },{
+
+          "icon":"09",
+
+          "text":"09"
+
+        },{
+
+          "icon":"010",
+
+          "text":"010"
+
+        },{
+
+          "icon":"011",
+
+          "text":"011"
+
+        },{
+
+          "icon":"012",
+
+          "text":"012"
+
+        },{
+
+          "icon":"013",
+
+          "text":"013"
+
+        },{
+
+          "icon":"014",
+
+          "text":"014"
+
+        },{
+
+          "icon":"015",
+
+          "text":"015"
+
+        },{
+
+          "icon":"016",
+
+          "text":"016"
+
+        },{
+
+          "icon":"017",
+
+          "text":"017"
+
+        },{
+
+          "icon":"018",
+
+          "text":"018"
+
+        },{
+
+          "icon":"019",
+
+          "text":"019"
+
+        },{
+
+          "icon":"020",
+
+          "text":"020"
+
+        },{
+
+          "icon":"021",
+
+          "text":"021"
+
+        },{
+
+          "icon":"022",
+
+          "text":"022"
+
+        },{
+
+          "icon":"023",
+
+          "text":"023"
+
+        },{
+
+          "icon":"024",
+
+          "text":"024"
+
+        },{
+
+          "icon":"025",
+
+          "text":"025"
+
+        },{
+
+          "icon":"026",
+
+          "text":"026"
+
+        },{
+
+          "icon":"027",
+
+          "text":"027"
+
+        },{
+
+          "icon":"028",
+
+          "text":"028"
+
+        },{
+
+          "icon":"029",
+
+          "text":"029"
+
+        },{
+
+          "icon":"030",
+
+          "text":"030"
+
+        },{
+
+          "icon":"031",
+
+          "text":"031"
+
+        },{
+
+          "icon":"032",
+
+          "text":"032"
+
+        },{
+
+          "icon":"033",
+
+          "text":"033"
+
+        },{
+
+          "icon":"034",
+
+          "text":"034"
+
+        },{
+
+          "icon":"035",
+
+          "text":"035"
+
+        },{
+
+          "icon":"036",
+
+          "text":"036"
+
+        },{
+
+          "icon":"037",
+
+          "text":"037"
+
+        },{
+
+          "icon":"038",
+
+          "text":"038"
+
+        },{
+
+          "icon":"039",
+
+          "text":"039"
+
+        },{
+
+          "icon":"040",
+
+          "text":"040"
+
+        },{
+
+          "icon":"041",
+
+          "text":"041"
+
+        },{
+
+          "icon":"042",
+
+          "text":"042"
+
+        },{
+
+          "icon":"043",
+
+          "text":"043"
+
+        },{
+
+          "icon":"044",
+
+          "text":"044"
+
+        },{
+
+          "icon":"045",
+
+          "text":"045"
+
+        },{
+
+          "icon":"046",
+
+          "text":"046"
+
+        },{
+
+          "icon":"047",
+
+          "text":"047"
+
+        },{
+
+          "icon":"048",
+
+          "text":"048"
+
+        },{
+
+          "icon":"049",
+
+          "text":"049"
+
+        },{
+
+          "icon":"050",
+
+          "text":"050"
+
+        },{
+
+          "icon":"051",
+
+          "text":"051"
+
+        },{
+
+          "icon":"052",
+
+          "text":"052"
+
+        },{
+
+          "icon":"053",
+
+          "text":"053"
+
+        },{
+
+          "icon":"054",
+
+          "text":"054"
+
+        },{
+
+          "icon":"055",
+
+          "text":"055"
+
+        },{
+
+          "icon":"056",
+
+          "text":"056"
+
+        },{
+
+          "icon":"057",
+
+          "text":"057"
+
+        },{
+
+          "icon":"058",
+
+          "text":"058"
+
+        },{
+
+          "icon":"059",
+
+          "text":"059"
+
+        },{
+
+          "icon":"060",
+
+          "text":"060"
+
+        },{
+
+          "icon":"061",
+
+          "text":"061"
+
+        },{
+
+          "icon":"062",
+
+          "text":"062"
+
+        },{
+
+          "icon":"063",
+
+          "text":"063"
+
+        },{
+
+          "icon":"064",
+
+          "text":"064"
+
+        },{
+
+          "icon":"065",
+
+          "text":"065"
+
+        },{
+
+          "icon":"066",
+
+          "text":"066"
+
+        },{
+
+          "icon":"067",
+
+          "text":"067"
+
+        },{
+
+          "icon":"068",
+
+          "text":"068"
+
+        },{
+
+          "icon":"069",
+
+          "text":"069"
+
+        },{
+
+          "icon":"070",
+
+          "text":"070"
+
+        },{
+
+          "icon":"071",
+
+          "text":"071"
+
+        },{
+
+          "icon":"072",
+
+          "text":"072"
+
+        },{
+
+          "icon":"073",
+
+          "text":"073"
+
+        },{
+
+          "icon":"074",
+
+          "text":"074"
+
+        },{
+
+          "icon":"075",
+
+          "text":"075"
+
+        },{
+
+          "icon":"076",
+
+          "text":"076"
+
+        },{
+
+          "icon":"077",
+
+          "text":"077"
+
+        },{
+
+          "icon":"078",
+
+          "text":"078"
+
+        },{
+
+          "icon":"079",
+
+          "text":"079"
+
+        },{
+
+          "icon":"080",
+
+          "text":"080"
+
+        },{
+
+          "icon":"081",
+
+          "text":"081"
+
+        },{
+
+          "icon":"082",
+
+          "text":"082"
+
+        },{
+
+          "icon":"083",
+
+          "text":"083"
+
+        },{
+
+          "icon":"084",
+
+          "text":"084"
+
+        },{
+
+          "icon":"085",
+
+          "text":"085"
+
+        },{
+
+          "icon":"086",
+
+          "text":"086"
+
+        },{
+
+          "icon":"087",
+
+          "text":"087"
+
+        },{
+
+          "icon":"088",
+
+          "text":"088"
+
+        },{
+
+          "icon":"089",
+
+          "text":"089"
+
+        },{
+
+          "icon":"090",
+
+          "text":"090"
+
+        },{
+
+          "icon":"091",
+
+          "text":"091"
+
+        },{
+
+          "icon":"092",
+
+          "text":"092"
+
+        },{
+
+          "icon":"093",
+
+          "text":"093"
+
+        },{
+
+          "icon":"094",
+
+          "text":"094"
+
+        },{
+
+          "icon":"095",
+
+          "text":"095"
+
+        },{
+
+          "icon":"096",
+
+          "text":"096"
+
+        },{
+
+          "icon":"097",
+
+          "text":"097"
+
+        },{
+
+          "icon":"098",
+
+          "text":"098"
+
+        },{
+
+          "icon":"099",
+
+          "text":"099"
+
+        },{
+
+          "icon":"0100",
+
+          "text":"0100"
+
+        },{
+
+          "icon":"0101",
+
+          "text":"0101"
+
+        },{
+
+          "icon":"0102",
+
+          "text":"0102"
+
+        },{
+
+          "icon":"0103",
+
+          "text":"0103"
+
+        },{
+
+          "icon":"0104",
+
+          "text":"0104"
+
+        },{
+
+          "icon":"0105",
+
+          "text":"0105"
+
+        },{
+
+          "icon":"0106",
+
+          "text":"0106"
+
+        },{
+
+          "icon":"0107",
+
+          "text":"0107"
+
+        },{
+
+          "icon":"0108",
+
+          "text":"0108"
+
+        },{
+
+          "icon":"0109",
+
+          "text":"0109"
+
+        },{
+
+          "icon":"0110",
+
+          "text":"0110"
+
+        },{
+
+          "icon":"0111",
+
+          "text":"0111"
+
+        },{
+
+          "icon":"0112",
+
+          "text":"0112"
+
+        },{
+
+          "icon":"0113",
+
+          "text":"0113"
+
+        },{
+
+          "icon":"0114",
+
+          "text":"0114"
+
+        },{
+
+          "icon":"0115",
+
+          "text":"0115"
+
+        },{
+
+          "icon":"0116",
+
+          "text":"0116"
+
+        },{
+
+          "icon":"0117",
+
+          "text":"0117"
+
+        },{
+
+          "icon":"0118",
+
+          "text":"0118"
+
+        },{
+
+          "icon":"0119",
+
+          "text":"0119"
+
+        },{
+
+          "icon":"0120",
+
+          "text":"0120"
+
+        },{
+
+          "icon":"0121",
+
+          "text":"0121"
+
+        },{
+
+          "icon":"0122",
+
+          "text":"0122"
+
+        },{
+
+          "icon":"0123",
+
+          "text":"0123"
+
+        },{
+
+          "icon":"0124",
+
+          "text":"0124"
+
+        },{
+
+          "icon":"0125",
+
+          "text":"0125"
+
+        },{
+
+          "icon":"0126",
+
+          "text":"0126"
+
+        },{
+
+          "icon":"0127",
+
+          "text":"0127"
+
+        },{
+
+          "icon":"0128",
+
+          "text":"0128"
+
+        },{
+
+          "icon":"0129",
+
+          "text":"0129"
+
+        },{
+
+          "icon":"0130",
+
+          "text":"0130"
+
+        },{
+
+          "icon":"0131",
+
+          "text":"0131"
+
+        },{
+
+          "icon":"0132",
+
+          "text":"0132"
+
+        },{
+
+          "icon":"0133",
+
+          "text":"0133"
+
+        },{
+
+          "icon":"0134",
+
+          "text":"0134"
+
+        },{
+
+          "icon":"0135",
+
+          "text":"0135"
+
+        },{
+
+          "icon":"0136",
+
+          "text":"0136"
+
+        },{
+
+          "icon":"0137",
+
+          "text":"0137"
+
+        },{
+
+          "icon":"0138",
+
+          "text":"0138"
+
+        },{
+
+          "icon":"0139",
+
+          "text":"0139"
+
+        },{
+
+          "icon":"0140",
+
+          "text":"0140"
+
+        },{
+
+          "icon":"0141",
+
+          "text":"0141"
+
+        },{
+
+          "icon":"0142",
+
+          "text":"0142"
+
+        },{
+
+          "icon":"0143",
+
+          "text":"0143"
+
+        },{
+
+          "icon":"0144",
+
+          "text":"0144"
+
+        },{
+
+          "icon":"0145",
+
+          "text":"0145"
+
+        },{
+
+          "icon":"0146",
+
+          "text":"0146"
+
+        },{
+
+          "icon":"0147",
+
+          "text":"0147"
+
+        },{
+
+          "icon":"0148",
+
+          "text":"0148"
+
+        },{
+
+          "icon":"0149",
+
+          "text":"0149"
+
+        },{
+
+          "icon":"0150",
+
+          "text":"0150"
+        }
+    ]
+  }
+}

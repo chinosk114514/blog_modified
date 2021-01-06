@@ -1,0 +1,18 @@
+<script>
+ var OriginTitle = document.title;
+ var titleTime;
+ document.addEventListener('visibilitychange', function () {
+     if (document.hidden) {
+         $('[rel="icon"]').attr('href', "https://chinosk.top/g.jpg");
+         document.title = '你看不见我φ(>ω<*) ';
+         clearTimeout(titleTime);
+     }
+     else {
+         $('[rel="icon"]').attr('href', "https://chinosk.top/g.jpg");
+         document.title = '咿呀~被发现惹(灬°ω°灬) ' + OriginTitle;
+         titleTime = setTimeout(function () {
+             document.title = OriginTitle;
+         }, 2000);
+     }
+ });
+</script>

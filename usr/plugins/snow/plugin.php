@@ -9,7 +9,7 @@
 class Snow_Plugin implements Typecho_Plugin_Interface
 {
     /**
-     * 激活插件方法,如果激活失败,直接抛出异常
+     * 激活插件,如果激活失败,直接抛出异常
      * 
      * @access public
      * @return void

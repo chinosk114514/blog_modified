@@ -1,6 +1,5 @@
 <?php
 /**
- * 简单的，有丰富自定义项的页面下雪插件 
  * 
  * @package Snow
  * @author journey.ad

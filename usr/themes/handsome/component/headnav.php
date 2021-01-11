@@ -345,6 +345,8 @@
                                 <i class="animate-spin  fontello fontello-spinner hide" id="spin-login"></i>
                                 <i class="animate-spin fontello fontello-refresh hide" id="ban-login"></i>
                             </button>
+				
+				<div class="text" style=" text-align:center;"><p><font size="2" face="arial" color="gray"><br/>--第三方登录--</font></p></div>
 				<?php TeConnect_Plugin::show(); ?>
 
 <!--                            --><?php //$http_type = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') || (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')) ? 'https://' : 'http://'; ?>

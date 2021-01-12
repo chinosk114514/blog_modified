@@ -35,6 +35,8 @@ include 'header.php';
             &bull;
             <a href="<?php $options->adminUrl('login.php'); ?>"><?php _e('用户登录'); ?></a>
         </p>
+        		<div class="text" style=" text-align:center;"><p><font size="2" face="arial" color="gray">--第三方登录--</font></p></div>
+				<?php TeConnect_Plugin::show(); ?>
     </div>
 </div>
 <?php 

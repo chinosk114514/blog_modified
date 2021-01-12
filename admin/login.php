@@ -84,6 +84,8 @@ include 'header.php';
                                 <input type="hidden" name="referer" value="<?php echo htmlspecialchars($request->get('referer')); ?>" />
                             </div>
                         </form>
+						
+						
         <p class="more-link"><div align="center">
             <a href="<?php $options->siteUrl(); ?>"><?php _e('返回首页'); ?></a>
             <?php if($options->allowRegister): ?>
@@ -91,6 +93,9 @@ include 'header.php';
             <a href="<?php $options->registerUrl(); ?>"><?php _e('用户注册'); ?></a>
             <?php endif; ?>
         </p></div>
+			<div class="text" style=" text-align:center;"><p><font size="2" face="arial" color="gray"><br/>--第三方登录--</font></p></div>
+				<?php TeConnect_Plugin::show(); ?>
+					
                     </div>
                 </div>
             </div>

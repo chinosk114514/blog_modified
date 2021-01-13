@@ -2,6 +2,7 @@
 require_once __DIR__ . '/Access_Bootstrap.php';
 /**
  * 获取访客信息，生成统计图表，由<a href="https://zhaiyiming.com/">@一名宅</a> 部分优化重构。
+ * 权限控制由<a href="https://www.chinosk6.cn">@sunset</a> 优化。
  *
  * @package Access
  * @author Kokororin
